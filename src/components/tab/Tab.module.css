@@ -1,0 +1,17 @@
+.tab {
+  border: transparent;
+  background-color: transparent;
+  font-size: 1em;
+}
+
+.tabOn{
+  color: black;
+}
+
+.tabOff{
+  color: gray;
+}
+
+.tab:hover {
+  color: black;
+}
